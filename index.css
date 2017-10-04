@@ -7,9 +7,15 @@
 	margin-top: 20px;
 }
 #valuta1 {
-	padding: 10px;
+	padding: 5px;
 	
 }
 img {
 	size: 5px;
+}
+#valuta2 {
+	padding: 5px;
+}
+input {
+	padding: 4px;
 }
